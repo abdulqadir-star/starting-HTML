@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="index.css">
+<body>
+    <style>
+        #send{background-color: palegreen;
+color: blue;
+font: optional;}
+#sent{background-color: antiquewhite;
+color: red}
+#rent{background-color: blanchedalmond;
+color: purple;}
+#not{background-color: tan;
+color: slategray;}
+#abd{background-color:plum;
+color: black;}
+
+
+    </style> 
+   <style>
+     #123{color: blue;background-color: yellow;}
+    </style>
+</body>
+</html>
+
+<div>
+<h1 style="background-color: aqua;color: black;text-align: center";>
+
+   USE OF PEN
+</h1>
+<h2>
+    PEN IS MOST IMPORYANT COMPONENT IN HUMMAN LIFE
+</h2>
+
+<blockquote id="send" >
+    A pen is a common writing instrument that applies ink to a surface, usually paper, for writing or drawing.[1] Early pens such as reed pens, quill pens, dip pens and ruling pens held a small amount of ink on a nib or in a small void or cavity which had to be periodically recharged by dipping the tip of the pen into an inkwell.[2][3] Today, such pens find only a small number of specialized uses, such as in illustration and calligraphy. Reed pens, quill pens and dip pens, which were used for writing, have been replaced by ballpoint pens, rollerball pens, fountain pens and felt or ceramic tip pens.[4] Ruling pens, which were used for technical drawing and cartography, have been replaced by technical pens such as the Rapidograph.[5] All of these modern pens contain internal ink reservoirs, such that they do not need to be dipped in in
+</blockquote>
+</div>
+<div>
+<ul id="sent">
+    <li>A felt-tip pen, or marker, has a porous tip made of fibrous material, which normally remains saturated with ink from the reservoir.[11] As ink leaves the tip, new ink is drawn from the reservoir - which often consists of a large volume of a similar porous material to that used in the tip - by capillary action and gravity. As with a fountain pen, ink leaves the tip of a felt tip pen by capillary action when writing on a porous surface. However, unlike fountain pens, many markers can also reliably write on slick impermeable surfaces that are wet by the ink, and in such applications ink typically does not continually leave the pen as it is held against the writing surface. The smallest, finest-tipped felt-tip pens are used for writing on paper. Medium-sized felt-tips are often used by children for coloring and drawing. Larger types, often called "markers", are used for writing in larger sizes, often on surfaces other than paper such as corrugated boxes and whiteboards. Specialized felt-tip pens referred to by names such as "liquid chalk" or "chalkboard markers" are used to write on chalkboards. Markers with wide tips and bright but transparent ink, called highlighters, are used to highlight text that has already been written or printed. Pens designed for children or for temporary writing (as with a whiteboard or overhead projector) typically use non-permanent inks. Large markers used to label shipping cases or other packages are usually permanent markers.</li>
+</ul>
+<div>
+<img width="400px" src="https://static-01.daraz.pk/p/acdc1b2e014b63b518bd72d134d1e8b9.jpg" alt="not found">
+
+
+
+</div>
+<div>
+
+<ul id="rent">
+    <li>A dip pen (or nib pen) consists of a metal nib with capillary channels, like that of a fountain pen, mounted on a handle or holder, often made of wood. A dip pen is called such because it usually has no ink reservoir and must therefore be repeatedly dipped into an inkpot in order to recharge the nib with ink while drawing or writing. The dip pen has certain advantages over a fountain pen; it can use waterproof pigmented (particle-and-binder-based) inks, such as so-called India ink, drawing ink, or acrylic inks, which would destroy a fountain pen by clogging, as well as the traditional iron gall ink, which can cause corrosion in a fountain pen. Dip pens are now mainly used in illustration, calligraphy, and comics. A particularly fine-pointed type of dip pen known as a crowquill is a favorite instrument of artists such as David Stone Martin and Jay Lynch, because its flexible metal point can create a variety of delicate lines, textures and tones in response to variation of pressure while drawing.</li>
+</ul>
+</div>
+<img width="400px" src="https://www.lifepencompany.com/wp-content/uploads/2022/10/71Lw5czVbL._AC_SL1500_.jpg" alt="not found">
+<ul id="not">
+    <li>A quill is a pen made from a flight feather of a large bird, most often a goose. To make a quill, a feather must be cured through aging or heat-treatment, after which a nib is fashioned from the shaft by cutting a slit in it and carving away the sides to create a pointed tip. With practice, suitable feathers can be made into quills quickly and cheaply using no more than a small knife and a source of heat. Due to their easy availability, quills remained the writing instruments of choice in the west for a long time—from the 6th century to the 19th—before the metal dip pen, the fountain pen, and eventually the ballpoint pen came to be manufactured in large numbers. Quills, like later metal-nibbed dip pens, must periodically be dipped in ink while writing.</li>
+</ul>
+<img width="400px" src="https://i0.wp.com/www.printspk.com/wp-content/uploads/2022/08/Customized-Name-Engraved-Ink-Pen-Fountain-Pen-1.jpg?fit=900%2C900&ssl=1" alt="not found">
+<ul id="abd">
+    <li>A reed pen is cut from a reed or bamboo, with a slit in a narrow tip. Its mechanism is essentially the same as that of a quill or a metal dip pen. The reed pen has almost disappeared but is still used by young school students in some parts of India and Pakistan, who learn to write with them on small timber boards known as "Takhti".</li>
+ </ul> 
