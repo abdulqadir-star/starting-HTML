@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+</head>
+<body>
+    
+</body>
+</html>
+<body style="background-color:aquamarine">
+    
+
+   <h3> THE BEAUTIMUL MOSQUES IN THE WORLD</h3> <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul%2C_Turkey_002.jpg" alt="img" width="500px"><br>
+<h1>This is basic programing language</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cupiditate ipsum, eum temporibus officia debitis quod eius ab animi consequatur, officiis quis, veniam inventore placeat eaque? Velit sunt quia quas?
+</p>
+<dl>
+    <dt><B>MUSLIMS  </B>  </dt>
+    <dd>Musilms is trhe very nice religion in the world.I an muslim.I beleive on this religion</dd>         
+</dl>
+<h3>Typs of Muslims</h3>
+<ul>
+    <li>BRALVI</li>
+    <li>EHLE HADEES</li>
+    <LI>DEO BAND</LI>
+    <LI>LAHORI</LI>
+    <LI>BARELVI</LI>
+</ul>
+<a href="https://vagabond-cat.surge.sh/">other objects</a><br/>
+<img src="https://guardian.ng/wp-content/uploads/2020/05/The-Grand-Mosque-1-e1588489327847.jpg" alt="image" width="500px">
+<P>The main repectful places of MUSLIMS are as follows:</P>
+<ol>
+    <li>MAKKAH</li>
+    <LI>MADINAH</LI>
+    <LI>HIJRE ASWAD</LI>
+    <LI>ZAM ZAM</LI>
+</ol>
+<p>The big wars between muslims and non-muslimes are as follows:</p>
+<ol>
+    <li>BADAR</li>
+    <LI>OHAD</LI>
+    <LI>TABOOK</LI>
+    <LI>KHANDAK</LI>
+    <LI>EHZAB</LI>
+</ol>
+<div class="container">
+    <div class="row">
+        <div class="col-8">
+            <p>Hagia Sophia (lit. 'Holy Wisdom'; Ancient Greek: Ἁγία Σοφία, romanized: Hagía Sophía; Latin: Sancta Sapientia; Turkish: Ayasofya), officially the Hagia Sophia Grand Mosque (Turkish: Ayasofya Camii),[3] is a mosque and major cultural and historical site in Istanbul, Turkey. The mosque was originally built as an Eastern Orthodox church and was used as such from the year 360 until the conquest of Constantinople by the Ottoman Empire in 1453. It served as a mosque until 1935, when it became a museum. In 2020, the site once again became a mosque.</p>
+        </div>
+        <div class="col-4">
+            <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/36/22.jpg" alt="img" width="500px"><br>
+        </div>
+    </div>
+</div>
+<div class="container-flot">   
+    <div class="row">
+        <div class="col-4">
+            <img src="https://zameenblog.s3.amazonaws.com/blog/wp-content/uploads/2019/04/cover-image-1-21.jpg" alt="img" width="400px" height="250px"><br>
+        </div>
+        <div class="col-8">
+            <p>The current structure was built by the Byzantine emperor Justinian I as the Christian cathedral of Constantinople for the Byzantine Empire between 532 and 537, and was designed by the Greek geometers Isidore of Miletus and Anthemius of Tralles.[4] It was formally called the Church of the Holy Wisdom (Greek: Ναὸς τῆς Ἁγίας τοῦ Θεοῦ Σοφίας, romanized: Naòs tês Hagías toû Theoû Sophías)[5] and upon completion became the world's largest interior space and among the first to employ a fully pendentive dome. It is considered the epitome of Byzantine architecture[6] and is said to have "changed the history of architecture".[7] The present Justinianic building was the third church of the same name to occupy the site, as the prior one had been destroyed in the Nika riots. As the episcopal see of the ecumenical patriarch of Constantinople, it remained the world's largest cathedral for nearly a thousand years, until Seville Cathedral was completed in 1520. Beginning with subsequent Byzantine architecture, Hagia Sophia became the paradigmatic Orthodox church form, and its architectural style was emulated by Ottoman mosques a thousand years later.[8] It has been described as "holding a unique position in the Christian world"[8] and as an architectural and cultural icon of Byzantine and Eastern Orthodox civilization.[9][10][8]</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-8">
+            <p>The religious and spiritual centre of the Eastern Orthodox Church for nearly one thousand years, the church was dedicated to the Holy Wisdom.[11][12][13] It was where the excommunication of Patriarch Michael I Cerularius was officially delivered by Humbert of Silva Candida, the envoy of Pope Leo IX in 1054, an act considered the start of the East–West Schism. In 1204, it was converted during the Fourth Crusade into a Catholic cathedral under the Latin Empire, before being returned to the Eastern Orthodox Church upon the restoration of the Byzantine Empire in 1261. The doge of Venice who led the Fourth Crusade and the 1204 Sack of Constantinople, Enrico Dandolo, was buried in the church.</p>
+        </div>
+        <div class="col-4">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3h-pfD-S5g_xWDdKlRJnJvdJHjqB9c1nYrhGGptJdXA0pfxCoHsRfibrMzxFeEdKsqL0&usqp=CAU" alt="img" width="600px">
+        </div>
+    </div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js">
+
